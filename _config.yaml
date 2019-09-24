@@ -1,0 +1,4 @@
+
+baseurl: '/capstoneprojest_subhost'
+include: ['_pages']
+excerpt_separator: <!--more-->
