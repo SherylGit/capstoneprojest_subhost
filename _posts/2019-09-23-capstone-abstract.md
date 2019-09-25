@@ -32,8 +32,8 @@ This project will build a real-time and automatic credit risk assess system by u
 
 
 
-![Clustering2]({{ site.baseurl }}/assets/img/2019-04-11/eeg2.png){: .center-image}
-<em class="figure">Fig 2. Brain waves using EEG</em>
+![Clustering2]({{ site.baseurl }}/assets/img/2019-09-23/dataset1.png){: .center-image}
+<em class="figure">Fig 1. Dataset Screenshot</em>
 
 
 
@@ -43,7 +43,5 @@ This project will build a real-time and automatic credit risk assess system by u
 ### References
 
 <ol>
-  <li><a href="https://github.com/meagmohit/EEG-Datasets">EEG-Datasets</a></li>
-  <li><a href="https://martinos.org/mne/stable/index.html">MNE</a></li>
-  <li><a href="https://www.frontiersin.org/articles/10.3389/fninf.2016.00007/full">Preparing Laboratory and Real-World EEG Data for Large-Scale Analysis</a></li>
+  <li><a href="https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset">Dataset</a></li>
 </ol>
