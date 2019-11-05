@@ -11,7 +11,7 @@ Capstone Project progress records.
 <!--more-->
 
 <blockquote class="tip">
-    Here is the Abstract of my capstone project. <strong>Submitted, Waiting for approval.</strong>
+    Here is the Abstract of my capstone project. <strong>Submitted, Get approval.</strong>
 </blockquote>
 
 <div class="list-of-contents">
