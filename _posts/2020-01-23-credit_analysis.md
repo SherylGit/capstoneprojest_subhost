@@ -542,7 +542,7 @@ print ('___________________')
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_4_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_4_1.png)
 
 
 ```python
@@ -631,7 +631,7 @@ print (df2)
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_7_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_7_1.png)
 
 
 
@@ -656,7 +656,7 @@ print (df3)
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_8_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_8_1.png)
 
 
 
@@ -680,7 +680,7 @@ print (df4)
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_9_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_9_1.png)
 
 
 
@@ -713,7 +713,7 @@ print ('The mean of AGE is 35, the min is 21, and the max is 79. This dataset co
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_10_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_10_1.png)
 
 
 
@@ -760,7 +760,7 @@ print ('Feature “LIMIT_BALL” is in a broad range and not normally distribute
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_11_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_11_1.png)
 
 
 
@@ -782,7 +782,7 @@ plt.title('The Payment Status in September, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_12_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_12_1.png)
 
 
 
@@ -804,7 +804,7 @@ plt.title('The Payment Status in August, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_13_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_13_1.png)
 
 
 
@@ -826,7 +826,7 @@ plt.title('The Payment Status in July, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_14_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_14_1.png)
 
 
 
@@ -847,7 +847,7 @@ plt.title('The Payment Status in June, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_15_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_15_1.png)
 
 
 
@@ -869,7 +869,7 @@ plt.title('The Payment Status in May, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_16_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_16_1.png)
 
 
 
@@ -891,7 +891,7 @@ plt.title('The Payment Status in April, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_17_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_17_1.png)
 
 
 
@@ -913,7 +913,7 @@ plt.title('Amount of Bill Statement Distritution in September, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_18_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_18_1.png)
 
 
 
@@ -935,7 +935,7 @@ plt.title('Amount of Bill Statement Distritution in August, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_19_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_19_1.png)
 
 
 
@@ -957,7 +957,7 @@ plt.title('Amount of Bill Statement Distritution in July, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_20_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_20_1.png)
 
 
 
@@ -979,7 +979,7 @@ plt.title('Amount of Bill Statement Distritution in June, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_21_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_21_1.png)
 
 
 
@@ -1001,7 +1001,7 @@ plt.title('Amount of Bill Statement Distritution in May, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_22_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_22_1.png)
 
 
 
@@ -1023,7 +1023,7 @@ plt.title('Amount of Bill Statement Distritution in April, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_23_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_23_1.png)
 
 
 
@@ -1045,7 +1045,7 @@ plt.title('Amount of Previous Payment Distritution in September, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_24_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_24_1.png)
 
 
 
@@ -1067,7 +1067,7 @@ plt.title('Amount of Previous Payment Distritution in August, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_25_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_25_1.png)
 
 
 
@@ -1089,7 +1089,7 @@ plt.title('Amount of Previous Payment Distritution in July, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_26_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_26_1.png)
 
 
 
@@ -1111,7 +1111,7 @@ plt.title('Amount of Previous Payment Distritution in June, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_27_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_27_1.png)
 
 
 
@@ -1133,7 +1133,7 @@ plt.title('Amount of Previous Payment Distritution in May, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_28_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_28_1.png)
 
 
 
@@ -1155,7 +1155,7 @@ plt.title('Amount of Previous Payment Distritution in April, 2005')
 
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_29_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_29_1.png)
 
 
 
@@ -1432,7 +1432,7 @@ print ('2. Since the size of observations is small, no feature selection and rel
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_33_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_33_1.png)
 
 
 
@@ -1462,7 +1462,7 @@ print ('Credit card holder at about 30 years old are the majority portion of the
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_35_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_35_1.png)
 
 
 
@@ -1484,7 +1484,7 @@ print ('The probability of man to be default is greater than that of woman.')
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_36_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_36_1.png)
 
 
 
@@ -1506,7 +1506,7 @@ print ('Without considering the unknown class “others”, education degree has
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_37_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_37_1.png)
 
 
 
@@ -1526,7 +1526,7 @@ print ('Roughly, the possibilities of default of any marriage status are close, 
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_38_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_38_1.png)
 
 
 
@@ -1576,7 +1576,7 @@ print ('There is no correlation between either of the two variables.')
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_40_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_40_1.png)
 
 
 
@@ -1604,7 +1604,7 @@ print ('So we will remove PAY_4, PAY_5 in the model training process.')
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_41_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_41_1.png)
 
 
 
@@ -1630,7 +1630,7 @@ print ('The correlarions between either of the variables are strong and between 
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_42_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_42_1.png)
 
 
 
@@ -1652,7 +1652,7 @@ print ('There are moderate correlation among the “PAY_AMT” feature set.')
     
 
 
-![png]({{ site.baseurl }}/capstoneprojest_subhost/assets/img/2020-01-23/credit_analysis_43_1.png)
+![png]({{ site.baseurl }}/assets/img/2020-01-23/credit_analysis_43_1.png)
 
 
 
