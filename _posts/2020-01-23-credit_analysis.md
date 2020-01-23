@@ -635,7 +635,7 @@ print (df2)
 
 
 
-```python
+```pythong
 # Option 2:
 # Let's show EDUCATION distritution in barh plot.
 df.EDUCATION.value_counts ().plot (kind = 'bar')
